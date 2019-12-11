@@ -1,6 +1,3 @@
-/*
- * Copyright (c) 2019 Componize Software
- */
 package com.example.cloud.gateway;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
